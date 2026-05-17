@@ -15,6 +15,7 @@ I like working on the parts of software that shape how people think and create: 
 
 - [Agmente](https://github.com/rebornix/Agmente), an open-source iOS client for coding agents via ACP or the Codex app-server.
 - [ACP Swift SDK](https://github.com/rebornix/acp-swift-sdk), a Swift client library for the Agent Client Protocol.
+- [Dev Tunnels Swift](https://github.com/rebornix/dev-tunnels-swift), a Swift client library for Dev Tunnels on iOS and macOS.
 - [el](https://github.com/rebornix/el), a terminal client for the Agent Host Protocol.
 - [lean](https://github.com/rebornix/lean), a small TypeScript CLI for Linear.
 - [sounds-gucci](https://github.com/rebornix/sounds-gucci), an experimental framework for diagnosing VS Code and chat bugs with GitHub Copilot agents and skills.
