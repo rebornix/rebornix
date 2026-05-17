@@ -21,3 +21,8 @@ I like working on the parts of software that shape how people think and create: 
 - [sounds-gucci](https://github.com/rebornix/sounds-gucci), an experimental framework for diagnosing VS Code and chat bugs with GitHub Copilot agents and skills.
 
 More notes and links live at [rebornix.com](https://rebornix.com).
+
+If you do self-hosting too, you might be interested in these two apps:
+
+- [ProxMobo](https://apps.apple.com/app/apple-store/id6503488988?pt=120102995&ct=selfhost&mt=8), for managing Proxmox VE and Proxmox Backup Server.
+- [Uptime Kuma Manager](https://www.uptimekuma.app), for monitoring your Uptime Kuma services.
